@@ -6,9 +6,9 @@ A consle appplication written in Java that models a Grade Point Average (GPA) ca
 The code was developed as part of my assessment for the FirstBank Tech Academy 2.0 Program.
 
 
-## Screenshots
+## EXPECTED OUTPUT
 
-![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/tunji-dev/GPA_Caluclator/blob/main/GPACalculator/Images/expected%20output.jpg))
+![](GPACalculator/Images/expected_output.jpg)
 
 
 ## Documentation
